@@ -15,6 +15,7 @@
 
       # Akka 
       # Akka Streams
+      # Scala
       # Spark
       # Kafka
       # Cassandra
