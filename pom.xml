@@ -10,7 +10,7 @@
 
     <properties>
         <spark.version>2.3.2</spark.version>
-        <kafka.version>2.1.0</kafka.version>
+        <kafka.version>5.3.0-ccs</kafka.version>
         <scala.version.major>2.11</scala.version.major>
         <scala.version.minor>8</scala.version.minor>
         <scala.version>${scala.version.major}.${scala.version.minor}</scala.version>
